@@ -1,6 +1,6 @@
 ## Overview
 
-Atelier Mesko is showcased as one of the items in my portfolio.
+Atelier Mesko is showcased as one of the items in my portfolio. Live view: https://ateliermesko.com
 
 ## Technologies Used
 
