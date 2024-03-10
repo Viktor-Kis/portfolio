@@ -14,6 +14,7 @@ Atelier Mesko is showcased as one of the items in my portfolio.
 - **Chrome Devtools:** Employed for debugging and editing during development.
 - **Lighthouse:** Applied for Core Web Vitals optimization.
 - **Visual Studio Code:** Chosen as the integrated development environment for coding.
+- **ChatGPT:** Special thanks for accelerating the whole development process
 
 ## Contact
 
