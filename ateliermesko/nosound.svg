@@ -1,0 +1,6 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="200" r="20" fill="#252320" />
+  <circle cx="200" cy="200" r="43" fill="transparent" stroke="#252320" stroke-width="10" />
+  <path d=" M 141 222 A 63 63 120 0 1 141 178 M 116 230 A 89 89 120 0 1 116 170 M 91 240 A 116 116 120 0 1 91 160 M 259 178 A 63 63 300 0 1 259 222
+    M 284 170 A 89 89 300 0 1 284 230 M 309 160 A 116 116 300 0 1 309 240 M280 120 L120 280" fill="transparent" stroke="#252320" stroke-width="10"/>
+</svg>

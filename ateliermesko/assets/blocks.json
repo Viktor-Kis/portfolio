@@ -1,0 +1,170 @@
+[
+    {
+        "type": "image",
+        "category": "references",
+        "image": "images/img_0040.jpg",
+		"thumbnail": "images/img_0040_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+	{
+        "type": "text",
+        "category": "references",
+        "text": "",
+		"en_text": "Emese's references reflect her professionalism and commitment to her work. Especially in areas such as make-up art, where confidence and expertise are paramount.",
+        "de_text": ""
+    },
+    {
+        "type": "image",
+        "category": "references",
+        "image": "images/kep2.jpg",
+		"thumbnail": "images/kep2_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+    {
+        "type": "text",
+        "category": "references",
+        "text": "",
+		"en_text": "Atelier Mesko represents Emese's personal artistic vision, presenting a unique approach to makeup art and visual aesthetics.",
+        "de_text": ""
+    },
+    {
+        "type": "image",
+        "category": "references",
+        "image": "images/lily_by_luise_reichert.jpg",
+		"thumbnail": "images/lily_by_luise_reichert_thumb.jpg",
+        "alt": "Photographer: Luise Reichert, Styling: Ale Elsbacher, Make-Up: Emese Torma",
+        "en_text": "",
+        "de_text": ""
+    },
+
+	{
+        "type": "text",
+        "category": "references",
+        "text": "",
+        "en_text": "She works internationally in fashion, film and theatre. As a make-up artist, she plays a crucial role in creating and enhancing the look of actors, models and performers.",
+        "de_text": ""
+    },
+
+    {
+        "type": "image",
+        "category": "commercial",
+        "image": "images/commercial/kep1.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },    
+	{
+        "type": "image",
+        "category": "commercial",
+        "image": "images/commercial/kep2.jpg",
+        "alt": "Kép 1",
+        "en_text": "Text for Image 1 in English",
+        "de_text": ""
+    },
+	{
+        "type": "image",
+        "category": "commercial",
+        "image": "images/commercial/kep3.jpg",
+        "alt": "Kép 1",
+        "en_text": "Text for Image 1 in English",
+        "de_text": "Text für Bild 1 auf Deutsch"
+    },
+	{
+        "type": "image",
+        "category": "fashion",
+        "image": "images/lily_by_luise_reichert_web-7.jpg",
+		"thumbnail": "images/lily_by_luise_reichert_web-7_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+	{
+        "type": "image",
+        "category": "fashion",
+        "image": "images/sheslostcontrol-2.jpg",
+		"thumbnail": "images/sheslostcontrol-2_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+	{
+        "type": "image",
+        "category": "fashion",
+        "image": "images/supersusi_taibeh5330.jpg",
+		"thumbnail": "images/supersusi_taibeh5330_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+	{
+        "type": "image",
+        "category": "fashion",
+        "image": "images/08_hr_george.jpg",
+		"thumbnail": "images/08_hr_george_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+	{
+        "type": "image",
+        "category": "fashion",
+        "image": "images/029_HR_studioseries_vrindajelinek.jpg",
+		"thumbnail": "images/029_hr_studioseries_vrindajelinek_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+	{
+        "type": "image",
+        "category": "fashion",
+        "image": "images/04_druck_vrindajelinek.jpg",
+		"thumbnail": "images/04_druck_vrindajelinek_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+	{
+        "type": "image",
+        "category": "fashion",
+        "image": "images/2019.06.08.Sophie_Lin3526.jpg",
+		"thumbnail": "images/2019.06.08.sophie_lin3526_thumb.jpg",
+        "alt": "Kép 1",
+        "en_text": "",
+        "de_text": ""
+    },
+    {
+        "type": "image",
+        "category": "category2",
+        "image": "images/category2/kep4.jpg",
+        "alt": "Kép 2",
+        "en_text": "Text for Image 2 in English",
+        "de_text": "Text für Bild 2 auf Deutsch"
+    },
+    {
+        "type": "image",
+        "category": "category2",
+        "image": "images/category2/kep5.jpg",
+        "alt": "Kép 2",
+        "en_text": "Text for Image 2 in English",
+        "de_text": "Text für Bild 2 auf Deutsch"
+    },    
+    {
+        "type": "text",
+        "category": "category2",
+        "text": "Ez itt egy szöveg blokk a category2-höz tartozóan.",
+        "en_text": "Atelier Mesko represents Emese's personal artistic vision, showcasing her unique approach to makeup artistry and visual aesthetics.",
+        "de_text": ""
+    },
+    {
+        "type": "image",
+        "category": "category2",
+        "image": "images/category2/kep6.jpg",
+        "alt": "Kép 2",
+        "en_text": "Text for Image 2 in English",
+        "de_text": "Text für Bild 2 auf Deutsch"
+    }
+]
