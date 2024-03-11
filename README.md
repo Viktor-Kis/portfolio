@@ -1,10 +1,10 @@
-# [Project Name]
+# [Portfolio]
 
 This repository contains my personal portfolio showcasing custom-developed websites.
 
 ## Projects
 
-### [Project 1 Name]
+### [Atelier Mesko]
 
 - **Description:** Brief overview of the project's purpose and features.
 - **Technologies:** List of technologies and tools used in the project.
