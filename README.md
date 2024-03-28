@@ -33,6 +33,6 @@ This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE
 ## Contact
 
 - Your Name
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+- Email: viktor.kis@kviksite.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/viktor-kis-software-engineer/)
+- Portfolio: [Your Portfolio Website](https://kviksite.com)
